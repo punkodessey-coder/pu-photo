@@ -1,0 +1,5 @@
+UI layout smoke-test report
+Base URL: http://127.0.0.1:5000
+Screenshots: one per page and viewport in this folder.
+
+No horizontal overflow or likely interactive overlaps detected.
